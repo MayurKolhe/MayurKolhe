@@ -19,7 +19,7 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 ```javascript
 const mayur = {
     pronouns: "He" | "him",
-    code: ["Javascript", Typescript", "Java", "C++", "SQL", "NOSQL", "HTML", "CSS",]
+    code: ["Javascript", "Typescript", "Java", "C++", "SQL", "NOSQL", "HTML", "CSS",]
     askMeAbout: ["Front End", "Web Dev", "Back End", "Full Stack", "Data analytics", "Tech", "Tea" "coffee"],
     technologies: {
         frontEnd: {
