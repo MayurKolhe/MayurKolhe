@@ -6,12 +6,18 @@
 
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from Jan 2024. Feel free to explore and get in touch!
 
-<img align="right" alt="GIF" src="https://github.com/MayurKolhe/MayurKolhe/blob/main/Devloper.gif" width="500" height="380" />
+
 
 ![](https://komarev.com/ghpvc/?username=mayurkolhe&color=green)
 
+
+
 ## About Me
-👨‍💻 **Full Stack Developer** on a mission to make a lasting impact on technology. From ground-up app creation to solving real-life problems, I craft seamless web experiences with ***JavaScript, ReactJS, and Java***. Currently shaping the future with an **Master's in Computer Science at California State University**. Let's collaborate, code, and build solutions that transcend the ordinary! 💻✨ #InnovationInCode
+<img align="right" alt="GIF" src="https://github.com/MayurKolhe/MayurKolhe/blob/main/Devloper.gif" width="500" height="320" />
+
+👨‍💻 **Full Stack Developer** on a mission to make a lasting impact on technology. From ground-up app creation to solving real-life problems, I craft seamless web experiences with ***JavaScript, ReactJS, and Java***. Currently shaping the future with a **Master's in Computer Science at California State University**. Let's collaborate, code, and build solutions that transcend the ordinary! 💻✨ #InnovationInCode
+
+
 
 
 ### aboutMe.js
